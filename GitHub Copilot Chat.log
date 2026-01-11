@@ -1,0 +1,49 @@
+2026-01-11 07:34:54.531 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-01-11 07:34:54.850 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-01-11 07:34:54.851 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-01-11 07:34:54.851 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-01-11 07:34:55.429 [error] Copilot extension not found
+2026-01-11 07:34:55.737 [info] Creating node-pty shim: source=c:\Users\dilan\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules\node-pty\build\Release, dest=c:\Users\dilan\.vscode\extensions\github.copilot-chat-0.36.0\node_modules\@github\copilot\prebuilds\win32-x64
+2026-01-11 07:34:55.738 [info] Creating ripgrep shim: source=c:\Users\dilan\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules\@vscode\ripgrep\bin, dest=c:\Users\dilan\.vscode\extensions\github.copilot-chat-0.36.0\node_modules\@github\copilot\sdk\ripgrep\bin\win32-x64
+2026-01-11 07:34:56.517 [info] Found 6 entries to copy: conpty, conpty.node, conpty_console_list.node, pty.node, winpty-agent.exe, winpty.dll
+2026-01-11 07:34:56.518 [info] Found 1 entries to copy: rg.exe
+2026-01-11 07:34:57.801 [info] Using the Electron fetcher.
+2026-01-11 07:35:00.124 [info] Logged in as ChrisGhosTJ07
+2026-01-11 07:35:00.976 [info] Got Copilot token for ChrisGhosTJ07
+2026-01-11 07:35:00.976 [info] Copilot Chat: 0.36.0, VS Code: 1.108.0
+2026-01-11 07:35:01.157 [info] activationBlocker from 'languageModelAccess' took for 6071ms
+2026-01-11 07:35:01.577 [info] Fetched model metadata in 6357ms 6fbdd1e7-09fa-4da3-875c-323f65e261fe
+2026-01-11 07:35:01.998 [info] Latest entry: ccreq:latest.copilotmd
+2026-01-11 07:35:02.000 [info] ccreq:5e8d19a4.copilotmd | markdown
+2026-01-11 07:35:03.042 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-11 07:35:03.134 [info] Registering default platform agent...
+2026-01-11 07:35:03.144 [info] [code-referencing] Public code references are enabled.
+2026-01-11 07:35:03.146 [info] activationBlocker from 'conversationFeature' took for 8139ms
+2026-01-11 07:35:03.164 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-01-11 07:35:03.209 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-01-11 07:35:03.946 [info] Fetched model metadata in 974ms d87d3f00-4fe0-4b7e-a735-555fc60740c0
+2026-01-11 07:35:04.204 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2026-01-11 07:35:04.204 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2026-01-11 07:35:04.204 [info] Successfully registered GitHub PR title and description provider.
+2026-01-11 07:35:04.239 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-01-11 07:35:04.254 [info] ccreq:f673e3b0.copilotmd | markdown
+2026-01-11 07:35:04.860 [info] Logged in as ChrisGhosTJ07
+2026-01-11 07:35:05.563 [info] Got Copilot token for ChrisGhosTJ07
+2026-01-11 07:35:05.569 [info] Copilot Chat: 0.36.0, VS Code: 1.108.0
+2026-01-11 07:35:05.775 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-11 07:35:05.775 [info] [code-referencing] Public code references are enabled.
+2026-01-11 07:35:05.904 [info] Fetched model metadata in 152ms af9c06a4-96d0-412e-939e-dd2fc38b0224
+2026-01-11 07:35:06.022 [info] ccreq:91efc51e.copilotmd | markdown
+2026-01-11 07:36:08.308 [info] [CurrentChange] Full documents: 22 tokens, 110897 budget
+2026-01-11 07:36:08.657 [info] Request ID for failed request: a4be81ea-702a-481e-9dca-7b683336e9bf
+2026-01-11 07:36:08.724 [error] Server error: 402 {"error":{"message":"You have no quota","code":"quota_exceeded"}}
+2026-01-11 07:36:08.760 [info] ccreq:e13c51ef.copilotmd | quotaExceeded | gpt-4.1-2025-04-14 | 305ms | [feedbackGenerator]
+2026-01-11 07:36:09.130 [info] Logged in as ChrisGhosTJ07
+2026-01-11 07:36:09.624 [info] Got Copilot token for ChrisGhosTJ07
+2026-01-11 07:36:09.624 [info] Copilot Chat: 0.36.0, VS Code: 1.108.0
+2026-01-11 07:36:09.655 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-11 07:36:09.655 [info] [code-referencing] Public code references are enabled.
+2026-01-11 07:36:09.803 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-11 07:36:09.803 [info] [code-referencing] Public code references are enabled.
+2026-01-11 07:36:09.825 [info] Fetched model metadata in 173ms 5b4b195c-9a52-4bc2-a23a-23a1436f26bf
+2026-01-11 07:36:09.918 [info] ccreq:cca9420d.copilotmd | markdown

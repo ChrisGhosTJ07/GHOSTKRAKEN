@@ -1,0 +1,971 @@
+2026-01-11 03:28:50.002 [info] [Principal] update#setState idle
+2026-01-11 03:28:58.241 [info] [Sincronización de configuración] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2026-01-11 03:28:58.241 [info] [Sincronización de configuración] [AutoSync] Enabled.
+2026-01-11 03:28:58.241 [info] [Sincronización de configuración] [AutoSync] Suspended until auth token is available.
+2026-01-11 03:29:01.079 [info] [Cambios en la nube] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2026-01-11 03:29:03.219 [info] [Servicio de túnel remoto] No other tunnel running
+2026-01-11 03:29:20.009 [info] [Principal] update#setState checking for updates
+2026-01-11 03:29:20.286 [info] [Principal] update#setState idle
+2026-01-11 03:29:23.246 [info] [Sincronización de configuración] [AutoSync] Triggered by Interval
+2026-01-11 03:29:23.251 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:29:23.868 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:29:25.036 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:29:25.039 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:29:25.070 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:29:25.123 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:29:25.139 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:29:25.155 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:29:25.178 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:29:25.645 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:29:25.660 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:29:25.669 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:29:25.696 [info] [Sincronización de configuración] Sync done. Took 2453ms
+2026-01-11 03:29:40.773 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:29:40.774 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:29:40.849 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:29:40.881 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:29:40.883 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:29:40.899 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:29:40.916 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:29:40.931 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:29:40.943 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:29:41.269 [info] [Sincronización de configuración] GlobalState: Updated remote ui state. Updated: chat.currentLanguageModel.panel,chat.currentLanguageModel.panel.isDefault.
+2026-01-11 03:29:41.282 [info] [Sincronización de configuración] GlobalState: Updated last synchronized ui state
+2026-01-11 03:29:41.643 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:29:41.660 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:29:41.667 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:29:41.677 [info] [Sincronización de configuración] Sync done. Took 905ms
+2026-01-11 03:30:06.154 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:30:06.162 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:30:06.282 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:30:06.378 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:30:06.382 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:30:06.431 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:30:06.511 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:30:06.613 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:30:06.634 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:30:06.656 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:30:07.697 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:30:07.714 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:30:07.738 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:30:07.753 [info] [Sincronización de configuración] Sync done. Took 1610ms
+2026-01-11 03:30:17.082 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:30:17.083 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:30:17.157 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:30:17.171 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:30:17.173 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:30:17.212 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:30:17.236 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:30:17.249 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:30:17.273 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:30:17.296 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:30:18.279 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:30:18.328 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:30:18.360 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:30:18.368 [info] [Sincronización de configuración] Sync done. Took 1287ms
+2026-01-11 03:30:42.554 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:30:42.555 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:30:42.615 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:30:42.636 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:30:42.640 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:30:42.798 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:30:43.323 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:30:43.479 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:30:43.500 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:30:44.020 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:30:45.134 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:30:45.152 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:30:45.165 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:30:45.181 [info] [Sincronización de configuración] Sync done. Took 2633ms
+2026-01-11 03:30:59.694 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:30:59.695 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:30:59.781 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:30:59.792 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:30:59.793 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:30:59.800 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:30:59.812 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:30:59.823 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:30:59.834 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:30:59.848 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:31:00.069 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:31:00.081 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:31:00.088 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:31:00.096 [info] [Sincronización de configuración] Sync done. Took 403ms
+2026-01-11 03:31:24.041 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:31:24.042 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:31:24.140 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:31:24.150 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:31:24.151 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:31:24.162 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:31:24.177 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:31:24.187 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:31:24.198 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:31:24.210 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:31:24.378 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:31:24.389 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:31:24.394 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:31:24.400 [info] [Sincronización de configuración] Sync done. Took 361ms
+2026-01-11 03:31:34.413 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:31:34.414 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:31:34.504 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:31:34.512 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:31:34.513 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:31:34.520 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:31:34.533 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:31:34.544 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:31:34.554 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:31:34.566 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:31:34.730 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:31:34.741 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:31:34.746 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:31:34.752 [info] [Sincronización de configuración] Sync done. Took 341ms
+2026-01-11 03:32:32.689 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:32:32.690 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:32:32.778 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:32:32.793 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:32:32.794 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:32:32.809 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:32:32.831 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:32:32.845 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:32:32.863 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:32:32.880 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:32:33.222 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:32:33.242 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:32:33.252 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:32:33.260 [info] [Sincronización de configuración] Sync done. Took 575ms
+2026-01-11 03:32:40.139 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:32:40.140 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:32:40.217 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:32:40.225 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:32:40.226 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:32:40.238 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:32:40.253 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:32:40.266 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:32:40.279 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:32:40.653 [info] [Sincronización de configuración] GlobalState: Updated remote ui state. Updated: chat.currentLanguageModel.editor.
+2026-01-11 03:32:40.662 [info] [Sincronización de configuración] GlobalState: Updated last synchronized ui state
+2026-01-11 03:32:41.050 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:32:41.065 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:32:41.072 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:32:41.082 [info] [Sincronización de configuración] Sync done. Took 946ms
+2026-01-11 03:33:16.806 [info] [Compartido] Getting Manifest... github.copilot-chat
+2026-01-11 03:33:16.997 [info] [Compartido] Installing extension: github.copilot-chat {"enable":true,"isApplicationScoped":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"}}
+2026-01-11 03:33:18.138 [info] [Compartido] Getting Manifest... github.copilot
+2026-01-11 03:33:18.179 [info] [Compartido] Installing extension: github.copilot {"enable":true,"isApplicationScoped":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-11 03:33:31.291 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:33:31.292 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:33:31.473 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:33:31.498 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:33:31.499 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:33:31.551 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:33:31.705 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:33:31.782 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:33:31.802 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:33:31.839 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:33:33.031 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:33:33.082 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:33:33.103 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:33:33.118 [info] [Sincronización de configuración] Sync done. Took 1827ms
+2026-01-11 03:33:35.897 [info] [Compartido] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 4516ms.
+2026-01-11 03:33:36.514 [info] [Compartido] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 4902ms.
+2026-01-11 03:33:46.370 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/github.copilot-chat-0.36.0: github.copilot-chat
+2026-01-11 03:33:46.473 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\github.copilot-chat-0.36.0
+2026-01-11 03:33:48.058 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/github.copilot-1.388.0: github.copilot
+2026-01-11 03:33:48.147 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\github.copilot-1.388.0
+2026-01-11 03:33:48.621 [info] [Compartido] Extension installed successfully: github.copilot-chat vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 03:33:48.622 [info] [Compartido] Extension installed successfully: github.copilot vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 03:33:53.551 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:33:53.552 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:33:53.700 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:33:56.845 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:33:56.847 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:33:56.993 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:33:57.237 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:33:57.254 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:33:57.271 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:33:57.614 [info] [Sincronización de configuración] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2026-01-11 03:33:57.632 [info] [Sincronización de configuración] GlobalState: Updated last synchronized ui state
+2026-01-11 03:33:59.238 [info] [Sincronización de configuración] Extensions: Updated remote extensions. Added: ["github.copilot","github.copilot-chat"].
+2026-01-11 03:33:59.295 [info] [Sincronización de configuración] Extensions: Updated last synchronized extensions.
+2026-01-11 03:33:59.318 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:33:59.326 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:33:59.339 [info] [Sincronización de configuración] Sync done. Took 5788ms
+2026-01-11 03:33:59.342 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:33:59.344 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:33:59.421 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:33:59.435 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:33:59.436 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:33:59.450 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:33:59.478 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:33:59.493 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:33:59.507 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:33:59.525 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:34:00.252 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:34:00.270 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:34:00.277 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:34:00.286 [info] [Sincronización de configuración] Sync done. Took 946ms
+2026-01-11 03:35:58.580 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:35:58.584 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:35:58.672 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:35:58.689 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:35:58.690 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:35:58.744 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:35:58.763 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:35:58.776 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:35:58.791 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:35:58.804 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:35:59.750 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:35:59.763 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:35:59.768 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:35:59.775 [info] [Sincronización de configuración] Sync done. Took 1202ms
+2026-01-11 03:36:03.601 [info] [Compartido] Getting Manifest... ms-vscode.vscode-speech
+2026-01-11 03:36:03.674 [info] [Compartido] Installing extension: ms-vscode.vscode-speech {"context":{"extensionInstallSource":"command"},"isMachineScoped":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"}}
+2026-01-11 03:36:43.764 [info] [Compartido] Extension signature verification result for ms-vscode.vscode-speech: Success. Internal Code: 0. Executed: true. Duration: 6421ms.
+2026-01-11 03:37:01.200 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/ms-vscode.vscode-speech-0.16.0-win32-x64: ms-vscode.vscode-speech
+2026-01-11 03:37:01.253 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\ms-vscode.vscode-speech-0.16.0-win32-x64
+2026-01-11 03:37:01.483 [info] [Compartido] Extension installed successfully: ms-vscode.vscode-speech vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 03:37:02.122 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:37:02.123 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:37:02.271 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:37:02.977 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:37:02.978 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:37:03.260 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:37:03.277 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:37:03.289 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:37:03.302 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:37:03.318 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:37:04.863 [info] [Sincronización de configuración] Extensions: Updated remote extensions. Added: ["ms-vscode.vscode-speech"].
+2026-01-11 03:37:05.337 [info] [Sincronización de configuración] Extensions: Updated last synchronized extensions.
+2026-01-11 03:37:06.126 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:37:06.207 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:37:06.216 [info] [Sincronización de configuración] Sync done. Took 4095ms
+2026-01-11 03:37:51.727 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:37:51.728 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:37:51.825 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:37:51.834 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:37:51.835 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:37:51.843 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:37:51.860 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:37:51.873 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:37:51.888 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:37:51.901 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:37:52.221 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:37:52.232 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:37:52.237 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:37:52.243 [info] [Sincronización de configuración] Sync done. Took 519ms
+2026-01-11 03:38:15.287 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:38:15.288 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:38:15.359 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:38:15.380 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:38:15.398 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:38:15.406 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:38:15.425 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:38:15.438 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:38:15.457 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:38:15.472 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:38:15.855 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:38:15.871 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:38:15.876 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:38:15.889 [info] [Sincronización de configuración] Sync done. Took 610ms
+2026-01-11 03:38:33.027 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:38:33.028 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:38:33.141 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:38:33.154 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:38:33.155 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:38:33.164 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:38:33.185 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:38:33.199 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:38:33.215 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:38:33.233 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:38:33.565 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:38:33.577 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:38:33.584 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:38:33.591 [info] [Sincronización de configuración] Sync done. Took 567ms
+2026-01-11 03:38:56.286 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:38:56.287 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:38:56.381 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:38:56.393 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:38:56.394 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:38:56.504 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:38:56.523 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:38:56.536 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:38:56.553 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:38:56.568 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:38:57.520 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:38:57.540 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:38:57.546 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:38:57.555 [info] [Sincronización de configuración] Sync done. Took 1271ms
+2026-01-11 03:39:28.558 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:39:28.559 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:39:28.627 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:39:28.642 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:39:28.643 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:39:28.661 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:39:28.683 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:39:28.697 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:39:28.715 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:39:28.740 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:39:29.151 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:39:29.194 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:39:29.201 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:39:29.210 [info] [Sincronización de configuración] Sync done. Took 656ms
+2026-01-11 03:39:58.214 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:39:58.219 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:39:58.299 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:39:58.315 [error] [Sincronización de configuración] LocalInvalidContent (UserDataSyncError) syncResource:settings operationId:unknown: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+    at ec.Ub (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:107632)
+    at ec.pb (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:103898)
+    at async ec.db (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:39341)
+2026-01-11 03:39:58.315 [error] [Sincronización de configuración] settings: No se puede sincronizar la configuración porque hay errores o advertencias en el archivo correspondiente.
+2026-01-11 03:39:58.353 [error] [Compartido] Error: No se puede leer el archivo "c:\Users\dilan\.vscode\extensions\checksum\package.json" (Error: No se puede resolver el archivo inexistente 'c:\Users\dilan\.vscode\extensions\checksum\package.json')
+    at Qh.G (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:90094)
+    at Qh.F (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89919)
+    at async Qh.C (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89291)
+    at async $a.t (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:46040)
+    at async $a.scanExtension (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44547)
+    at async Sf.scanExistingExtension (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:36581)
+    at async Hh.scanUserExtensionAtLocation (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:70107)
+    at async Wh.Ib (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:68270)
+2026-01-11 03:39:58.355 [info] [Sincronización de configuración] Keybindings: No changes found during synchronizing keybindings.
+2026-01-11 03:39:58.382 [info] [Sincronización de configuración] Snippets: No changes found during synchronizing snippets.
+2026-01-11 03:39:58.404 [info] [Sincronización de configuración] Tasks: No changes found during synchronizing tasks.
+2026-01-11 03:39:58.426 [info] [Sincronización de configuración] Mcp: No changes found during synchronizing mcp.
+2026-01-11 03:39:58.450 [info] [Sincronización de configuración] GlobalState: No changes found during synchronizing ui state.
+2026-01-11 03:39:58.990 [info] [Sincronización de configuración] Extensions: No changes found during synchronizing extensions.
+2026-01-11 03:39:59.013 [info] [Sincronización de configuración] Prompts: No changes found during synchronizing prompts.
+2026-01-11 03:39:59.028 [info] [Sincronización de configuración] Profiles: No changes found during synchronizing profiles.
+2026-01-11 03:39:59.050 [info] [Sincronización de configuración] Sync done. Took 830ms
+2026-01-11 03:43:10.559 [info] [Sincronización de configuración] [AutoSync] Triggered by Activity
+2026-01-11 03:43:10.560 [info] [Sincronización de configuración] Sync started.
+2026-01-11 03:43:51.864 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 03:45:38.373 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 03:45:48.229 [info] [Principal] Extension host with pid 9728 exited with code: 0, signal: unknown.
+2026-01-11 03:46:10.881 [info] [Cambios en la nube] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2026-01-11 03:58:32.642 [info] [Cambios en la nube] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2026-01-11 03:59:18.879 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 04:00:07.392 [info] [Principal] Extension host with pid 18804 exited with code: 0, signal: unknown.
+2026-01-11 04:00:23.946 [info] [Cambios en la nube] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2026-01-11 04:00:48.242 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 04:03:14.061 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 04:05:37.849 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 04:06:11.666 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 04:06:58.428 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 04:17:11.015 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 04:17:37.562 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 04:29:20.114 [info] [Principal] update#setState checking for updates
+2026-01-11 04:29:20.854 [info] [Principal] update#setState idle
+2026-01-11 04:45:46.236 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 04:49:39.511 [info] [Compartido] Getting Manifest... merse.merse-codex
+2026-01-11 04:49:39.622 [info] [Compartido] Installing extension: merse.merse-codex {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"}}
+2026-01-11 04:49:52.605 [info] [Compartido] Extension signature verification result for merse.merse-codex: Success. Internal Code: 0. Executed: true. Duration: 1826ms.
+2026-01-11 04:50:10.771 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/merse.merse-codex-1.0.4: merse.merse-codex
+2026-01-11 04:50:11.382 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\merse.merse-codex-1.0.4
+2026-01-11 04:50:11.871 [info] [Compartido] Extension installed successfully: merse.merse-codex vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 04:52:41.872 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 04:56:29.516 [info] [Compartido] Getting Manifest... ms-vscode.azure-repos
+2026-01-11 04:56:29.973 [info] [Compartido] Installing extension: ms-vscode.azure-repos {"installPreReleaseVersion":true,"preRelease":true,"pinned":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-11 04:56:35.427 [info] [Compartido] Extension signature verification result for ms-vscode.azure-repos: Success. Internal Code: 0. Executed: true. Duration: 908ms.
+2026-01-11 04:56:36.454 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/ms-vscode.azure-repos-0.41.2025081801: ms-vscode.azure-repos
+2026-01-11 04:56:36.505 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\ms-vscode.azure-repos-0.41.2025081801
+2026-01-11 04:56:37.235 [info] [Compartido] Marked extension as removed ms-vscode.azure-repos-0.40.0
+2026-01-11 04:56:37.588 [info] [Compartido] Extension installed successfully: ms-vscode.azure-repos vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 04:57:02.927 [info] [Compartido] Getting Manifest... openai.chatgpt
+2026-01-11 04:57:03.328 [info] [Compartido] Installing extension: openai.chatgpt {"installPreReleaseVersion":true,"preRelease":true,"pinned":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-11 04:57:07.084 [info] [Compartido] Getting Manifest... ms-vscode.azure-repos
+2026-01-11 04:57:07.105 [info] [Compartido] Installing extension: ms-vscode.azure-repos {"installPreReleaseVersion":false,"preRelease":false,"pinned":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-11 04:57:09.465 [info] [Compartido] Removed the extension from removed list: ms-vscode.azure-repos
+2026-01-11 04:57:09.510 [error] [Compartido] Error: No se puede leer el archivo "c:\Users\dilan\.vscode\extensions\checksum\package.json" (Error: No se puede resolver el archivo inexistente 'c:\Users\dilan\.vscode\extensions\checksum\package.json')
+    at Qh.G (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:90094)
+    at Qh.F (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89919)
+    at async Qh.C (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89291)
+    at async $a.t (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:46040)
+    at async $a.scanExtension (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44547)
+    at async Promise.all (index 0)
+    at async $a.q (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42973)
+    at async Sf.scanAllUserExtensions (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35833)
+    at async Hh.scanAllUserExtensions (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69942)
+    at async Gh.w (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80920)
+    at async Gh.h (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80048)
+2026-01-11 04:57:11.018 [info] [Compartido] Marked extension as removed ms-vscode.azure-repos-0.41.2025081801
+2026-01-11 04:57:11.277 [info] [Compartido] Extension installed successfully: ms-vscode.azure-repos vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 04:57:31.788 [info] [Compartido] Extension signature verification result for openai.chatgpt: Success. Internal Code: 0. Executed: true. Duration: 2828ms.
+2026-01-11 04:57:50.096 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/openai.chatgpt-0.5.58-win32-x64: openai.chatgpt
+2026-01-11 04:57:50.277 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\openai.chatgpt-0.5.58-win32-x64
+2026-01-11 04:57:50.580 [info] [Compartido] Marked extension as removed openai.chatgpt-0.4.58-win32-x64
+2026-01-11 04:57:50.646 [info] [Compartido] Extension installed successfully: openai.chatgpt vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:02:22.578 [info] [Compartido] Getting Manifest... github.copilot
+2026-01-11 05:02:22.677 [info] [Compartido] Installing extension: github.copilot {"installPreReleaseVersion":true,"preRelease":true,"pinned":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-11 05:02:27.676 [info] [Compartido] Extension installed successfully: github.copilot vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:05:44.062 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:07:27.208 [info] [Compartido] Getting Manifest... vscjava.migrate-java-to-azure
+2026-01-11 05:07:27.313 [info] [Compartido] Installing extension: vscjava.migrate-java-to-azure {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"}}
+2026-01-11 05:07:31.389 [info] [Compartido] Getting Manifest... vscjava.vscode-java-upgrade
+2026-01-11 05:07:31.441 [info] [Compartido] Installing extension: vscjava.vscode-java-upgrade {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-11 05:07:32.007 [info] [Compartido] Getting Manifest... ms-azuretools.vscode-azure-github-copilot
+2026-01-11 05:07:32.128 [info] [Compartido] Installing extension: ms-azuretools.vscode-azure-github-copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"}}
+2026-01-11 05:07:33.438 [info] [Compartido] Getting Manifest... ms-azuretools.vscode-azureresourcegroups
+2026-01-11 05:07:33.486 [info] [Compartido] Getting Manifest... ms-azuretools.vscode-azure-mcp-server
+2026-01-11 05:07:33.676 [info] [Compartido] Installing extension: ms-azuretools.vscode-azureresourcegroups {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-11 05:07:33.685 [info] [Compartido] Installing extension: ms-azuretools.vscode-azure-mcp-server {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-11 05:07:42.563 [info] [Compartido] Extension signature verification result for vscjava.vscode-java-upgrade: Success. Internal Code: 0. Executed: true. Duration: 4031ms.
+2026-01-11 05:07:45.680 [info] [Compartido] Extension signature verification result for ms-azuretools.vscode-azureresourcegroups: Success. Internal Code: 0. Executed: true. Duration: 2815ms.
+2026-01-11 05:07:46.013 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/vscjava.vscode-java-upgrade-1.10.1: vscjava.vscode-java-upgrade
+2026-01-11 05:07:46.240 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\vscjava.vscode-java-upgrade-1.10.1
+2026-01-11 05:07:50.638 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/ms-azuretools.vscode-azureresourcegroups-0.11.7: ms-azuretools.vscode-azureresourcegroups
+2026-01-11 05:07:50.738 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\ms-azuretools.vscode-azureresourcegroups-0.11.7
+2026-01-11 05:08:29.166 [info] [Compartido] Extension signature verification result for ms-azuretools.vscode-azure-mcp-server: Success. Internal Code: 0. Executed: true. Duration: 6542ms.
+2026-01-11 05:08:38.355 [info] [Compartido] Extension signature verification result for vscjava.migrate-java-to-azure: Success. Internal Code: 0. Executed: true. Duration: 9500ms.
+2026-01-11 05:08:44.235 [info] [Compartido] Extension signature verification result for ms-azuretools.vscode-azure-github-copilot: Success. Internal Code: 0. Executed: true. Duration: 10024ms.
+2026-01-11 05:08:46.737 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/ms-azuretools.vscode-azure-mcp-server-1.0.1-win32-x64: ms-azuretools.vscode-azure-mcp-server
+2026-01-11 05:08:46.986 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\ms-azuretools.vscode-azure-mcp-server-1.0.1-win32-x64
+2026-01-11 05:09:15.926 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/vscjava.migrate-java-to-azure-1.10.0-win32-x64: vscjava.migrate-java-to-azure
+2026-01-11 05:09:16.522 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\vscjava.migrate-java-to-azure-1.10.0-win32-x64
+2026-01-11 05:09:16.972 [info] [Compartido] Extension installed successfully: vscjava.vscode-java-upgrade vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:09:16.975 [info] [Compartido] Extension installed successfully: vscjava.migrate-java-to-azure vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:09:29.163 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/ms-azuretools.vscode-azure-github-copilot-1.0.153-win32-x64: ms-azuretools.vscode-azure-github-copilot
+2026-01-11 05:09:29.492 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\ms-azuretools.vscode-azure-github-copilot-1.0.153-win32-x64
+2026-01-11 05:09:29.801 [info] [Compartido] Extension installed successfully: ms-azuretools.vscode-azureresourcegroups vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:09:29.804 [info] [Compartido] Extension installed successfully: ms-azuretools.vscode-azure-mcp-server vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:09:29.804 [info] [Compartido] Extension installed successfully: ms-azuretools.vscode-azure-github-copilot vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:20:52.950 [info] [Principal] Extension host with pid 17248 exited with code: 0, signal: unknown.
+2026-01-11 05:28:44.143 [info] [Compartido] Getting Manifest... eamodio.gitlens
+2026-01-11 05:28:45.939 [info] [Compartido] Installing extension: eamodio.gitlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"}}
+2026-01-11 05:28:50.656 [info] [Compartido] Getting Manifest... donjayamanne.githistory
+2026-01-11 05:28:51.611 [info] [Compartido] Installing extension: donjayamanne.githistory {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"}}
+2026-01-11 05:29:02.981 [info] [Compartido] Extension signature verification result for donjayamanne.githistory: Success. Internal Code: 0. Executed: true. Duration: 1984ms.
+2026-01-11 05:29:05.420 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/donjayamanne.githistory-0.6.20: donjayamanne.githistory
+2026-01-11 05:29:05.485 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\donjayamanne.githistory-0.6.20
+2026-01-11 05:29:07.269 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:29:07.673 [info] [Compartido] Extension installed successfully: donjayamanne.githistory vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:29:19.339 [info] [Compartido] Extension signature verification result for eamodio.gitlens: Success. Internal Code: 0. Executed: true. Duration: 11659ms.
+2026-01-11 05:29:20.126 [info] [Principal] update#setState checking for updates
+2026-01-11 05:29:22.351 [info] [Principal] update#setState idle
+2026-01-11 05:29:37.583 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/eamodio.gitlens-17.8.1: eamodio.gitlens
+2026-01-11 05:29:38.163 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\eamodio.gitlens-17.8.1
+2026-01-11 05:29:40.266 [info] [Compartido] Extension installed successfully: eamodio.gitlens vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:29:51.840 [info] [Compartido] Getting Manifest... ms-vscode.notepadplusplus-keybindings
+2026-01-11 05:29:52.681 [info] [Compartido] Installing extension: ms-vscode.notepadplusplus-keybindings {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"}}
+2026-01-11 05:30:10.587 [info] [Compartido] Extension signature verification result for ms-vscode.notepadplusplus-keybindings: Success. Internal Code: 0. Executed: true. Duration: 6582ms.
+2026-01-11 05:30:12.001 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/ms-vscode.notepadplusplus-keybindings-1.0.7: ms-vscode.notepadplusplus-keybindings
+2026-01-11 05:30:12.365 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\ms-vscode.notepadplusplus-keybindings-1.0.7
+2026-01-11 05:30:14.447 [info] [Compartido] Extension installed successfully: ms-vscode.notepadplusplus-keybindings vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:30:54.636 [info] [Principal] Extension host with pid 10468 exited with code: 0, signal: unknown.
+2026-01-11 05:30:55.647 [error] [Principal] Extension host with pid 10468 still exists, forcefully killing it...
+2026-01-11 05:33:00.598 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:33:07.604 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:33:48.406 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:33:55.135 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:35:26.502 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:35:42.589 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:36:02.988 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:37:18.893 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:40:39.319 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:45:56.087 [info] [Compartido] Getting Manifest... eamodio.gitlens
+2026-01-11 05:45:56.581 [info] [Compartido] Installing extension: eamodio.gitlens {"installPreReleaseVersion":true,"preRelease":true,"pinned":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-11 05:46:08.385 [info] [Compartido] Extension signature verification result for eamodio.gitlens: Success. Internal Code: 0. Executed: true. Duration: 910ms.
+2026-01-11 05:46:15.257 [info] [Compartido] Extracted extension to file:///c%3A/Users/dilan/.vscode/extensions/eamodio.gitlens-2026.1.1016: eamodio.gitlens
+2026-01-11 05:46:15.448 [info] [Compartido] Renamed to c:\Users\dilan\.vscode\extensions\eamodio.gitlens-2026.1.1016
+2026-01-11 05:46:16.216 [info] [Compartido] Marked extension as removed eamodio.gitlens-17.8.1
+2026-01-11 05:46:16.635 [info] [Compartido] Extension installed successfully: eamodio.gitlens vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 05:46:20.954 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 05:48:57.954 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 05:58:38.953 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:00:32.841 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:00:39.392 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:00:57.099 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:01:17.320 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:01:25.187 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:01:43.656 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:02:00.046 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:07:42.064 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:15:33.874 [info] [Compartido] Getting Manifest... eamodio.gitlens
+2026-01-11 06:15:36.507 [info] [Compartido] Installing extension: eamodio.gitlens {"installPreReleaseVersion":false,"preRelease":false,"pinned":false,"productVersion":{"version":"1.108.0","date":"2026-01-08T13:53:10.781Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json","path":"/c:/Users/dilan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-11 06:15:43.490 [info] [Compartido] Removed the extension from removed list: eamodio.gitlens
+2026-01-11 06:15:43.768 [error] [Compartido] Error: No se puede leer el archivo "c:\Users\dilan\.vscode\extensions\checksum\package.json" (Error: No se puede resolver el archivo inexistente 'c:\Users\dilan\.vscode\extensions\checksum\package.json')
+    at Qh.G (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:90094)
+    at Qh.F (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89919)
+    at async Qh.C (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89291)
+    at async $a.t (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:46040)
+    at async $a.scanExtension (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44547)
+    at async Promise.all (index 1)
+    at async $a.q (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42973)
+    at async Sf.scanAllUserExtensions (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35833)
+    at async Hh.scanAllUserExtensions (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69942)
+    at async Gh.w (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80920)
+    at async Gh.h (file:///c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80048)
+2026-01-11 06:15:45.590 [info] [Compartido] Extension installed successfully: eamodio.gitlens vscode-userdata:/c%3A/Users/dilan/.vscode/extensions/extensions.json
+2026-01-11 06:15:45.618 [info] [Compartido] Marked extension as removed eamodio.gitlens-2026.1.1016
+2026-01-11 06:25:41.897 [info] [Cambios en la nube] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2026-01-11 06:29:20.168 [info] [Principal] update#setState checking for updates
+2026-01-11 06:29:21.185 [info] [Principal] update#setState idle
+2026-01-11 06:50:24.514 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 06:50:53.794 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 06:52:51.357 [info] [Sincronización de configuración] Settings: Last sync data state does not exist.
+2026-01-11 07:00:39.947 [warning] [Principal] No ptyHost heartbeat after 6 seconds
+2026-01-11 07:29:20.174 [info] [Principal] update#setState checking for updates
+2026-01-11 07:29:21.055 [info] [Principal] update#setState idle
+2026-01-11 07:34:27.565 [warning] [Ventana] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 35ms.
+2026-01-11 07:34:27.774 [warning] [Ventana] Creation of workbench contribution 'workbench.contrib.chatSetup' took 26ms.
+2026-01-11 07:34:27.836 [warning] [Ventana] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 23ms.
+2026-01-11 07:34:30.408 [info] [Ventana] Started local extension host with pid 1796.
+2026-01-11 07:34:31.029 [error] [Ventana] Extension 'luohe.js-debug-for-luohe-react CANNOT USE these API proposals 'portsAttributes, workspaceTrust, tunnels'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2026-01-11 07:34:31.243 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.prettyPrint" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.348 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.toggleSkippingFile" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.349 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.addCustomBreakpoints" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.351 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.removeAllCustomBreakpoints" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.352 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.addXHRBreakpoints" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.353 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.removeXHRBreakpoint" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.355 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.editXHRBreakpoints" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.356 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.pwa-node-debug.attachNodeProcess" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.358 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.npmScript" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.359 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.createDebuggerTerminal" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.360 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.startProfile" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.361 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.stopProfile" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.362 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.revealPage" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.364 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.debugLink" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.367 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.createDiagnostics" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.368 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.getDiagnosticLogs" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.369 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.node-debug.startWithStopOnEntry" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.371 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.openEdgeDevTools" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.372 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.callers.add" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.373 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.callers.remove" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.375 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.callers.removeAll" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.376 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.callers.goToCaller" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.377 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.callers.gotToTarget" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.378 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.enableSourceMapStepping" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.380 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.disableSourceMapStepping" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.381 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.network.viewRequest" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.383 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.network.clear" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.384 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.network.openBody" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.385 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.network.openBodyInHex" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.386 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.network.replayXHR" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.387 [info] [Ventana] [luohe.js-debug-for-luohe-react]: El comando "extension.js-debug.network.copyUri" ya está registrado por JavaScript Debugger (ms-vscode.js-debug)
+2026-01-11 07:34:31.447 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.codelens.npmScripts". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.448 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.terminalOptions". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.450 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.automaticallyTunnelRemoteServer". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.451 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.debugByLinkOptions". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.452 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.pickAndAttachOptions". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.453 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.autoAttachFilter". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.454 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.autoAttachSmartPattern". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.455 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.breakOnConditionalError". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.456 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.unmapMissingSources". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.457 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.defaultRuntimeExecutable". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.458 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.resourceRequestOptions". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.460 [warning] [Ventana] [luohe.js-debug-for-luohe-react]: No se puede registrar "debug.javascript.enableNetworkView". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.483 [warning] [Ventana] [redhat.vscode-yaml]: No se puede registrar "redhat.telemetry.enabled". Esta propiedad ya está registrada.
+2026-01-11 07:34:31.804 [error] [Ventana] [luohe.js-debug-for-luohe-react]: No se pueden registrar varias vistas con el mismo identificador "jsBrowserBreakpoints"
+2026-01-11 07:34:31.806 [error] [Ventana] [luohe.js-debug-for-luohe-react]: No se pueden registrar varias vistas con el mismo identificador "jsExcludedCallers"
+2026-01-11 07:34:31.807 [error] [Ventana] [luohe.js-debug-for-luohe-react]: No se pueden registrar varias vistas con el mismo identificador "jsDebugNetworkTree"
+2026-01-11 07:34:33.028 [warning] [Ventana] [computeCustomAgents] Skipping agent file that does not exist: file:///c%3A/Users/dilan/.vscode/extensions/vscjava.migrate-java-to-azure-1.10.0-win32-x64/agents/appmodassessment.agent.md No se puede leer el archivo "c:\Users\dilan\.vscode\extensions\vscjava.migrate-java-to-azure-1.10.0-win32-x64\agents\appmodassessment.agent.md" (Error: No se puede resolver el archivo inexistente 'c:\Users\dilan\.vscode\extensions\vscjava.migrate-java-to-azure-1.10.0-win32-x64\agents\appmodassessment.agent.md')
+2026-01-11 07:34:34.801 [warning] [Ventana] [computeCustomAgents] Skipping agent file that does not exist: file:///c%3A/Users/dilan/.vscode/extensions/vscjava.migrate-java-to-azure-1.10.0-win32-x64/agents/appmodassessment.agent.md No se puede leer el archivo "c:\Users\dilan\.vscode\extensions\vscjava.migrate-java-to-azure-1.10.0-win32-x64\agents\appmodassessment.agent.md" (Error: No se puede resolver el archivo inexistente 'c:\Users\dilan\.vscode\extensions\vscjava.migrate-java-to-azure-1.10.0-win32-x64\agents\appmodassessment.agent.md')
+2026-01-11 07:34:34.803 [warning] [Ventana] [computeCustomAgents] Skipping agent file that does not exist: file:///c%3A/Users/dilan/.vscode/extensions/vscjava.migrate-java-to-azure-1.10.0-win32-x64/agents/appmodassessment.agent.md No se puede leer el archivo "c:\Users\dilan\.vscode\extensions\vscjava.migrate-java-to-azure-1.10.0-win32-x64\agents\appmodassessment.agent.md" (Error: No se puede resolver el archivo inexistente 'c:\Users\dilan\.vscode\extensions\vscjava.migrate-java-to-azure-1.10.0-win32-x64\agents\appmodassessment.agent.md')
+2026-01-11 07:34:34.805 [warning] [Ventana] [computeCustomAgents] Skipping agent file that does not exist: file:///c%3A/Users/dilan/.vscode/extensions/vscjava.migrate-java-to-azure-1.10.0-win32-x64/agents/appmodassessment.agent.md No se puede leer el archivo "c:\Users\dilan\.vscode\extensions\vscjava.migrate-java-to-azure-1.10.0-win32-x64\agents\appmodassessment.agent.md" (Error: No se puede resolver el archivo inexistente 'c:\Users\dilan\.vscode\extensions\vscjava.migrate-java-to-azure-1.10.0-win32-x64\agents\appmodassessment.agent.md')
+2026-01-11 07:34:38.167 [info] [Ventana] MCP Registry configured: https://api.mcp.github.com
+2026-01-11 07:34:40.127 [info] [Cambios en la nube] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2026-01-11 07:34:40.141 [warning] [Ventana] [DefaultAccount] Attempt 1 to get sessions failed: Timed out waiting for authentication provider 'github' to register.
+2026-01-11 07:34:42.332 [error] [Ventana] Error reading tool set file vscode-userdata:/c%3A/Users/dilan/AppData/Roaming/Code/User/prompts/entrar.toolsets.jsonc: Unexpected end of JSON input
+2026-01-11 07:34:43.193 [warning] [Ventana] MCP migration: Failed to parse MCP config from vscode-userdata:/c%3A/Users/dilan/AppData/Roaming/Code/User/settings.json: Expected property name or '}' in JSON at position 368 (line 12 column 9)
+2026-01-11 07:34:43.199 [error] [Ventana] Error reading tool set file vscode-userdata:/c%3A/Users/dilan/AppData/Roaming/Code/User/prompts/entrar.toolsets.jsonc: Unexpected end of JSON input
+2026-01-11 07:34:43.783 [info] [Ventana] [perf] Render performance baseline is 333ms
+2026-01-11 07:34:44.230 [error] [Ventana] Error reading tool set file vscode-userdata:/c%3A/Users/dilan/AppData/Roaming/Code/User/prompts/entrar.toolsets.jsonc: Unexpected end of JSON input
+2026-01-11 07:34:44.930 [info] [Host de extensión] Extension host with pid 1796 started
+2026-01-11 07:34:44.931 [info] [Host de extensión] Skipping acquiring lock for c:\Users\dilan\AppData\Roaming\Code\User\workspaceStorage\c6e3aa5cf194ed16bdd465b2b70c9a82.
+2026-01-11 07:34:45.193 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-11 07:34:45.201 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-11 07:34:45.207 [info] [Host de extensión] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2026-01-11 07:34:45.211 [info] [Host de extensión] ExtensionService#_doActivateExtension openai.chatgpt, startup: false, activationEvent: 'onChatSession:openai-codex'
+2026-01-11 07:34:45.717 [warning] [Ventana] [DefaultAccount] Attempt 2 to get sessions failed: Timed out waiting for authentication provider 'github' to register.
+2026-01-11 07:34:48.983 [info] [Ventana] Extension host (LocalProcess pid: 1796) is unresponsive.
+2026-01-11 07:34:52.904 [error] [Ventana] [Extension Host] (node:1796) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2026-01-11 07:34:52.906 [error] [Ventana] [Extension Host] (node:1796) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-11 07:34:52.909 [info] [Ventana] Extension host (LocalProcess pid: 1796) is responsive.
+2026-01-11 07:34:52.943 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-01-11 07:34:53.681 [info] [Host de extensión] Not activating extension 'github.vscode-github-actions': Timed out while searching for 'workspaceContains' pattern **/.github/workflows/**,**/action.yml,**/action.yaml
+2026-01-11 07:34:53.681 [info] [Host de extensión] Not activating extension 'ms-python.python': Timed out while searching for 'workspaceContains' pattern **/pylock.*.toml
+2026-01-11 07:34:53.682 [info] [Host de extensión] Not activating extension 'redhat.java': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2026-01-11 07:34:53.682 [info] [Host de extensión] Not activating extension 'vscjava.migrate-java-to-azure': Timed out while searching for 'workspaceContains' pattern **/*.java,**/*.csproj
+2026-01-11 07:34:53.682 [info] [Host de extensión] Not activating extension 'vscjava.vscode-java-upgrade': Timed out while searching for 'workspaceContains' pattern **/pom.xml,**/build.gradle,**/*.java
+2026-01-11 07:34:53.682 [info] [Host de extensión] Not activating extension 'vscjava.vscode-maven': Timed out while searching for 'workspaceContains' pattern **/pom.xml
+2026-01-11 07:34:53.701 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-01-11 07:34:53.706 [info] [Ventana] Settings Sync: Account status changed from uninitialized to available
+2026-01-11 07:34:53.841 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-01-11 07:34:53.847 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-11 07:34:54.181 [warning] [Codex] [warn] is production release true warning false
+2026-01-11 07:34:54.531 [info] [GitHub Copilot Chat] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-01-11 07:34:54.549 [info] [GitHub Authentication] Reading sessions from keychain...
+2026-01-11 07:34:54.549 [info] [GitHub Authentication] Got stored sessions!
+2026-01-11 07:34:54.549 [info] [GitHub Authentication] Got 3 verified sessions.
+2026-01-11 07:34:54.549 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.549 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.549 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.549 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.549 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.550 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.550 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.550 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.550 [info] [GitHub Authentication] Getting sessions for user:email...
+2026-01-11 07:34:54.550 [info] [GitHub Authentication] Got 1 sessions for user:email...
+2026-01-11 07:34:54.550 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.550 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.550 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.550 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:34:54.551 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:34:54.570 [info] [Autenticación de Microsoft] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: true
+2026-01-11 07:34:54.596 [info] [Git] [main] Nivel de registro: Info
+2026-01-11 07:34:54.597 [info] [Git] [main] Validando git encontrado en: "C:\Program Files\Git\cmd\git.exe"
+2026-01-11 07:34:54.832 [info] [Git] [main] Usando git "2.52.0.windows.1" de "C:\Program Files\Git\cmd\git.exe"
+2026-01-11 07:34:54.832 [info] [Git] [Model][doInitialScan] Initial repository scan started
+2026-01-11 07:34:54.850 [info] [GitHub Copilot Chat] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-01-11 07:34:54.851 [info] [GitHub Copilot Chat] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-01-11 07:34:54.851 [info] [GitHub Copilot Chat] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-01-11 07:34:54.918 [error] [Ventana] Failed to fetch MCP registry providers Server returned 404
+2026-01-11 07:34:55.429 [error] [GitHub Copilot Chat] Copilot extension not found
+2026-01-11 07:34:55.644 [error] [Host de extensión] Error: chatParticipant must be declared in package.json: claude-code
+    at yZt.$registerAgent (vscode-file://vscode-app/c:/Users/dilan/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:520:10001)
+2026-01-11 07:34:55.699 [error] [Ventana] chatParticipant must be declared in package.json: claude-code
+2026-01-11 07:34:55.737 [info] [GitHub Copilot Chat] Creating node-pty shim: source=c:\Users\dilan\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules\node-pty\build\Release, dest=c:\Users\dilan\.vscode\extensions\github.copilot-chat-0.36.0\node_modules\@github\copilot\prebuilds\win32-x64
+2026-01-11 07:34:55.738 [info] [GitHub Copilot Chat] Creating ripgrep shim: source=c:\Users\dilan\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules\@vscode\ripgrep\bin, dest=c:\Users\dilan\.vscode\extensions\github.copilot-chat-0.36.0\node_modules\@github\copilot\sdk\ripgrep\bin\win32-x64
+2026-01-11 07:34:55.879 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:55.880 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:55.881 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:55.946 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:56.031 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:34:56.032 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:34:56.346 [info] [Host de extensión] Eager extensions activated
+2026-01-11 07:34:56.437 [info] [GitHub Authentication] FetcherService: Electron fetch failed with status: 429 
+2026-01-11 07:34:56.444 [error] [Ventana] Error reading tool set file vscode-userdata:/c%3A/Users/dilan/AppData/Roaming/Code/User/prompts/entrar.toolsets.jsonc: Unexpected end of JSON input
+2026-01-11 07:34:56.455 [info] [GitHub Authentication] Unable to resolve optional EDU details. Status: 429 
+2026-01-11 07:34:56.517 [info] [GitHub Copilot Chat] Found 6 entries to copy: conpty, conpty.node, conpty_console_list.node, pty.node, winpty-agent.exe, winpty.dll
+2026-01-11 07:34:56.518 [info] [GitHub Copilot Chat] Found 1 entries to copy: rg.exe
+2026-01-11 07:34:56.521 [info] [Git] > git rev-parse --show-toplevel [1024ms]
+2026-01-11 07:34:56.548 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-11 07:34:56.562 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-11 07:34:56.570 [info] [Host de extensión] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2026-01-11 07:34:57.305 [info] [Host de extensión] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-01-11 07:34:57.589 [info] [Host de extensión] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2026-01-11 07:34:57.600 [info] [Host de extensión] ExtensionService#_doActivateExtension ms-azuretools.vscode-azure-mcp-server, startup: false, activationEvent: 'onStartupFinished'
+2026-01-11 07:34:57.665 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:34:57.665 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:34:57.711 [warning] [Autenticación de Microsoft] [Sun, 11 Jan 2026 15:34:57 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node-extensions@1.5.25 : Warning - [MSAL:0002]	WARNING	LogAccountInfoNoThrow:90	Log MSAL Account:
+2026-01-11 07:34:57.711 [warning] [Autenticación de Microsoft] [Sun, 11 Jan 2026 15:34:57 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node-extensions@1.5.25 : Warning - [MSAL:0002]	WARNING	LogAccountInfoNoThrow:100	MSAL Account JSON chunk 1/6: {"ageGroup":3,"aio":"Ds8eSY3OkTIBgYu7QrYu03T4tlUXHchm1rUqOMwrHloBdS5*8jGjeaDa7xVaO1uKAhPL2icT4Azwpi5BdKkeFNuVMtVkkP6B0rmrrR2T2b0vLYlFx0rSOa0sCG!0mlEbJ31zRnV0ihy3nr3c8pSHu6mLckCPXKb*L3nNV!LLu0P0","alternative_account_id":"","at_hash":"M4-ICjUfCFPtAeiUALX8Dg","aud":"5d661950-3475-41cd-a2c3-d671a3162bc1","authority_type":"MSSTS","birthdate":"1993-12-31","client_info":"eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFMN3dGTkR3WksyTW1HWnpIVDBLdzFJIiwibmFtZSI6ImRpbGFuIGNhYnJlcmEgcmV5ZXMiLCJwcmVm
+2026-01-11 07:34:57.716 [warning] [Autenticación de Microsoft] [Sun, 11 Jan 2026 15:34:57 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node-extensions@1.5.25 : Warning - [MSAL:0002]	WARNING	LogAccountInfoNoThrow:100	MSAL Account JSON chunk 2/6: ZXJyZWRfdXNlcm5hbWUiOiJkaWxhbl9hdGxhc0Bob3RtYWlsLmNvbSIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1lMGI1LTM1MTBhZjNmMzViYSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWUwYjUtMzUxMGFmM2YzNWJhIiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWUwYjUtMzUxMGFmM2YzNWJhIiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9","ctry":"MX","debug_info":"Account from: cache_token_response, correlation_id: 035cf16b-83ab-a3bc-6267-5cce941e6bb5, timestamp: 2026-01
+2026-01-11 07:34:57.716 [warning] [Autenticación de Microsoft] [Sun, 11 Jan 2026 15:34:57 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node-extensions@1.5.25 : Warning - [MSAL:0002]	WARNING	LogAccountInfoNoThrow:100	MSAL Account JSON chunk 3/6: -11T12:22:42.000Z","email":"dilan_atlas@hotmail.com","environment":"login.windows.net","exp":1768220561,"family_name":"","given_name":"","home_account_id":"00000000-0000-0000-e0b5-3510af3f35ba.9188040d-6c67-4c5b-b112-36a304b66dad","home_environment":"","iat":1768133861,"idtyp":"user","iss":"https://login.microsoftonline.com/9188040d-6c67-4c5b-b112-36a304b66dad/v2.0","local_account_id":"00000000-0000-0000-e0b5-3510af3f35ba","login_hint":"M$EjN4nON48Ppa48ev52ftYhQST8nMScyLTyzJSSx2yMgvyU3MzNFLzs-VW
+2026-01-11 07:34:57.716 [warning] [Autenticación de Microsoft] [Sun, 11 Jan 2026 15:34:57 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node-extensions@1.5.25 : Warning - [MSAL:0002]	WARNING	LogAccountInfoNoThrow:100	MSAL Account JSON chunk 4/6: Hvjx1cmAMG3FAE","middle_name":"","name":"dilan cabrera reyes","nbf":1768133861,"oid":"00000000-0000-0000-e0b5-3510af3f35ba","password_change_url":"","password_expiry":0,"preferred_username":"dilan_atlas@hotmail.com","prov_data":[{"altsecid":"DgHoxVWbYgWy0uG1hc1s5Ayv6Xe7IP3SlDSOu-qBr0A","at":true,"prov":"linkedin.com"},{"altsecid":"7vTNWMP6G3E9FVBhN66hPETEv3DZYJQzwFU9RfrFHxU","at":true,"prov":"samsung.com"}],"puid":"0006BFFD9E933630","realm":"9188040d-6c67-4c5b-b112-36a304b66dad","sub":"AAAAAAAAA
+2026-01-11 07:34:57.716 [warning] [Autenticación de Microsoft] [Sun, 11 Jan 2026 15:34:57 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node-extensions@1.5.25 : Warning - [MSAL:0002]	WARNING	LogAccountInfoNoThrow:100	MSAL Account JSON chunk 5/6: AAAAAAAAAAAAL7wFNDwZK2MmGZzHT0Kw1I","tid":"9188040d-6c67-4c5b-b112-36a304b66dad","username":"dilan_atlas@hotmail.com","ver":"2.0","wam_account_ids":"{\"0ec893e0-5785-4de6-99da-4ed124e5296c\":\"0006BFFD9E933630\",\"14638111-3389-403d-b206-a6a71d9f8f16\":\"0006BFFD9E933630\",\"5d661950-3475-41cd-a2c3-d671a3162bc1\":\"0006BFFD9E933630\",\"82864fa0-ed49-4711-8395-a0e6003dca1f\":\"0006BFFD9E933630\",\"bed12bc0-3a62-470d-998c-e47546e7b039\":\"0006BFFD9E933630\",\"d7b530a4-7680-4c23-a8bf-c52c121d2e87\"
+2026-01-11 07:34:57.716 [warning] [Autenticación de Microsoft] [Sun, 11 Jan 2026 15:34:57 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node-extensions@1.5.25 : Warning - [MSAL:0002]	WARNING	LogAccountInfoNoThrow:100	MSAL Account JSON chunk 6/6: :\"0006BFFD9E933630\",\"e2ef5054-0287-4db6-afa3-013d96881fd3\":\"0006BFFD9E933630\",\"f3222e55-ab35-49de-81f3-88a3be08cf77\":\"0006BFFD9E933630\"}","xms_idrel":"3 10"}
+2026-01-11 07:34:57.801 [info] [GitHub Copilot Chat] Using the Electron fetcher.
+2026-01-11 07:34:59.972 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Learn about coding agent
+2026-01-11 07:34:59.972 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Continue
+2026-01-11 07:34:59.972 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Include changes
+2026-01-11 07:34:59.972 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Ignore changes
+2026-01-11 07:34:59.972 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Continue and don't ask again
+2026-01-11 07:34:59.972 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Continue with truncation
+2026-01-11 07:34:59.972 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: The agent will work asynchronously to create a pull request with your requested changes.
+2026-01-11 07:34:59.972 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Disable Code Lens
+2026-01-11 07:34:59.972 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Created from VS Code via the [GitHub Pull Request](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) extension.
+2026-01-11 07:35:00.124 [info] [GitHub Copilot Chat] Logged in as ChrisGhosTJ07
+2026-01-11 07:35:00.873 [info] [GitHub Authentication] Getting sessions for user:email...
+2026-01-11 07:35:00.873 [info] [GitHub Authentication] Got 1 sessions for user:email...
+2026-01-11 07:35:00.875 [info] [Autenticación de Microsoft] [getSessions] [all] starting
+2026-01-11 07:35:00.876 [info] [Autenticación de Microsoft] [getSessions] [all] returned 0 session(s)
+2026-01-11 07:35:00.877 [info] [Autenticación de Microsoft] [getSessions] [all] starting
+2026-01-11 07:35:00.877 [info] [Autenticación de Microsoft] [getSessions] [all] returned 0 session(s)
+2026-01-11 07:35:00.877 [info] [Autenticación de Microsoft] [getSessions] [all] starting
+2026-01-11 07:35:00.877 [info] [Autenticación de Microsoft] [getSessions] [all] returned 0 session(s)
+2026-01-11 07:35:00.965 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email...
+2026-01-11 07:35:00.966 [info] [GitHub Authentication] Got 0 sessions for read:user,repo,user:email...
+2026-01-11 07:35:00.971 [info] [GitHub Authentication] Getting sessions for project,read:org,read:user,repo,user:email,workflow...
+2026-01-11 07:35:00.971 [info] [GitHub Authentication] Got 0 sessions for project,read:org,read:user,repo,user:email,workflow...
+2026-01-11 07:35:00.976 [info] [GitHub Copilot Chat] Got Copilot token for ChrisGhosTJ07
+2026-01-11 07:35:00.976 [info] [GitHub Copilot Chat] Copilot Chat: 0.36.0, VS Code: 1.108.0
+2026-01-11 07:35:01.157 [info] [GitHub Copilot Chat] activationBlocker from 'languageModelAccess' took for 6071ms
+2026-01-11 07:35:01.165 [info] [Autenticación de Microsoft] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-01-11 07:35:01.165 [info] [Autenticación de Microsoft] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: true
+2026-01-11 07:35:01.454 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:01.454 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:01.455 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:01.456 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:01.493 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:01.493 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:01.498 [info] [GitHub] Nivel de registro: Info
+2026-01-11 07:35:01.504 [info] [GitLens] GitLens v17.8.1 activating in Visual Studio Code (1.108.0) on the desktop; mode=production, language='es', logLevel='warn', defaultDateLocale='null' (vscode|5c8268d3e0b7cc03b029b159d4cc4a4aace86895c0555914ef660c1e7c24ca2f|c0547436-46c3-4768-b43a-5de837292c601768145667369)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2026-01-11 07:35:01.508 [info] [GitLens] [2026-01-11 15:35:01.310] [GIT    *879ms] [c:\Users\dilan\OneDrive\Documentos\GitHub\GHOSTKRAKEN] git rev-parse --show-toplevel [*879ms] (slow)
+
+2026-01-11 07:35:01.513 [warning] [GitHub Pull Request] C:\Users\dilan\.ssh\config: ENOENT: no such file or directory, open 'C:\Users\dilan\.ssh\config'
+2026-01-11 07:35:01.513 [info] [GitHub Pull Request] [Activation] Extension version: 0.124.1
+2026-01-11 07:35:01.537 [info] [GitHub Pull Request] [Authentication] Creating hub for .com
+2026-01-11 07:35:01.577 [info] [GitHub Copilot Chat] Fetched model metadata in 6357ms 6fbdd1e7-09fa-4da3-875c-323f65e261fe
+2026-01-11 07:35:01.608 [info] [Git] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [1204ms]
+2026-01-11 07:35:01.623 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Stashes
+2026-01-11 07:35:01.623 [warning] [Host de extensión] Using default string since no string found in i18n bundle that has the key: Worktrees
+2026-01-11 07:35:01.692 [info] [Git] [Model][openRepository] Opened repository (path): c:\Users\dilan\OneDrive\Documentos\GitHub\GHOSTKRAKEN
+2026-01-11 07:35:01.692 [info] [Git] [Model][openRepository] Opened repository (real path): c:\Users\dilan\OneDrive\Documentos\GitHub\GHOSTKRAKEN
+2026-01-11 07:35:01.695 [info] [Git] [Model][openRepository] Opened repository (kind): repository
+2026-01-11 07:35:01.741 [info] [Git] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-01-11 07:35:01.998 [info] [GitHub Copilot Chat] Latest entry: ccreq:latest.copilotmd
+2026-01-11 07:35:02.000 [info] [GitHub Copilot Chat] ccreq:5e8d19a4.copilotmd | markdown
+2026-01-11 07:35:02.024 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:02.024 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:02.322 [info] [Autenticación de Microsoft] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-01-11 07:35:02.481 [info] [GitHub Pull Request] [Activation] Registering built in git provider.
+2026-01-11 07:35:02.481 [info] [GitHub Pull Request] [Activation] Looking for git repository
+2026-01-11 07:35:02.481 [info] [GitHub Pull Request] [Activation] Found 0 repositories during activation
+2026-01-11 07:35:02.481 [info] [GitHub Pull Request] [Activation] Git repository found, initializing review manager and pr tree view.
+2026-01-11 07:35:02.512 [info] [GitHub Pull Request] [GitAPI] Registering git provider
+2026-01-11 07:35:02.513 [info] [GitHub Pull Request] [Review+0] Validate state in progress
+2026-01-11 07:35:02.513 [info] [GitHub Pull Request] [Review+0] Validating state...
+2026-01-11 07:35:02.515 [warning] [GitHub Pull Request] No remotes found. The following remotes are missing: origin, upstream
+2026-01-11 07:35:02.515 [info] [GitHub Pull Request] [FolderRepositoryManager+0] No GitHub remotes found for folder c:\Users\dilan\OneDrive\Documentos\GitHub\GHOSTKRAKEN
+2026-01-11 07:35:02.522 [info] [GitHub Pull Request] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2026-01-11 07:35:03.042 [info] [GitHub Copilot Chat] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-11 07:35:03.134 [info] [GitHub Copilot Chat] Registering default platform agent...
+2026-01-11 07:35:03.144 [info] [GitHub Copilot Chat] [code-referencing] Public code references are enabled.
+2026-01-11 07:35:03.146 [info] [GitHub Copilot Chat] activationBlocker from 'conversationFeature' took for 8139ms
+2026-01-11 07:35:03.164 [info] [GitHub Copilot Chat] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-01-11 07:35:03.209 [info] [GitHub Copilot Chat] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-01-11 07:35:03.458 [error] [Ventana] Error reading tool set file vscode-userdata:/c%3A/Users/dilan/AppData/Roaming/Code/User/prompts/entrar.toolsets.jsonc: Unexpected end of JSON input
+2026-01-11 07:35:03.512 [info] [Git] > git config --get commit.template [1377ms]
+2026-01-11 07:35:03.560 [info] [GitLens] [2026-01-11 15:35:02.164] [GIT    *577ms] [c:/Users/dilan/OneDrive/Documentos/GitHub/GHOSTKRAKEN] git rev-parse --git-dir --git-common-dir [*577ms] (slow)
+[2026-01-11 15:35:03.501] [GIT   *1420ms] [c:/Users/dilan/OneDrive/Documentos/GitHub/GHOSTKRAKEN] git remote -v [*1420ms] (slow)
+[2026-01-11 15:35:03.512] Warning(C:\Program Files\Git\cmd\git.exe -c core.longpaths=true -c core.quotepath=false -c color.ui=false rev-list --max-parents=0 HEAD --): fatal: bad revision 'HEAD'
+
+[2026-01-11 15:35:03.513] [GIT   *1437ms] [c:/Users/dilan/OneDrive/Documentos/GitHub/GHOSTKRAKEN] git rev-list --max-parents=0 HEAD -- [*1437ms] (slow)
+
+2026-01-11 07:35:03.874 [info] [GitHub Pull Request] [FolderRepositoryManager+0] Using globalState assignableUsers for 0.
+2026-01-11 07:35:03.940 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:03.940 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:03.946 [info] [GitHub Copilot Chat] Fetched model metadata in 974ms d87d3f00-4fe0-4b7e-a735-555fc60740c0
+2026-01-11 07:35:04.153 [info] [GitHub Pull Request] [GitPostCommitCommands] Trying to register post commit commands.
+2026-01-11 07:35:04.204 [info] [GitHub Copilot Chat] Successfully activated the GitHub.vscode-pull-request-github extension.
+2026-01-11 07:35:04.204 [info] [GitHub Copilot Chat] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2026-01-11 07:35:04.204 [info] [GitHub Copilot Chat] Successfully registered GitHub PR title and description provider.
+2026-01-11 07:35:04.219 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:04.220 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:04.226 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:04.226 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:04.227 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:04.228 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:04.239 [info] [GitHub Copilot Chat] BYOK: Copilot Chat known models list fetched successfully.
+2026-01-11 07:35:04.254 [info] [GitHub Copilot Chat] ccreq:f673e3b0.copilotmd | markdown
+2026-01-11 07:35:04.278 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:04.279 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:04.844 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:04.844 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:04.860 [info] [GitHub Copilot Chat] Logged in as ChrisGhosTJ07
+2026-01-11 07:35:04.942 [info] [Git] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [870ms]
+2026-01-11 07:35:04.943 [warning] [Git] [Git][getBranch] No such branch: main
+2026-01-11 07:35:05.563 [info] [GitHub Copilot Chat] Got Copilot token for ChrisGhosTJ07
+2026-01-11 07:35:05.569 [info] [GitHub Copilot Chat] Copilot Chat: 0.36.0, VS Code: 1.108.0
+2026-01-11 07:35:05.707 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:05.707 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:05.709 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:05.709 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:05.713 [info] [Autenticación de Microsoft] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-01-11 07:35:05.716 [info] [Autenticación de Microsoft] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-01-11 07:35:05.726 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:05.726 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:05.775 [info] [GitHub Copilot Chat] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-11 07:35:05.775 [info] [GitHub Copilot Chat] [code-referencing] Public code references are enabled.
+2026-01-11 07:35:05.904 [info] [GitHub Copilot Chat] Fetched model metadata in 152ms af9c06a4-96d0-412e-939e-dd2fc38b0224
+2026-01-11 07:35:05.905 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:05.906 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:06.022 [info] [GitHub Copilot Chat] ccreq:91efc51e.copilotmd | markdown
+2026-01-11 07:35:06.045 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:06.045 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:06.146 [info] [Git] > git status -z -uall [1186ms]
+2026-01-11 07:35:06.152 [info] [Git] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1155ms]
+2026-01-11 07:35:06.176 [info] [GitHub Pull Request] [Review+0] Validate state in progress
+2026-01-11 07:35:06.176 [info] [GitHub Pull Request] [Review+0] Validating state...
+2026-01-11 07:35:06.178 [info] [GitHub Pull Request] [Activation] Repo state for file:///c%3A/Users/dilan/OneDrive/Documentos/GitHub/GHOSTKRAKEN changed.
+2026-01-11 07:35:06.178 [info] [GitHub Pull Request] [Activation] Repo file:///c%3A/Users/dilan/OneDrive/Documentos/GitHub/GHOSTKRAKEN has already been setup.
+2026-01-11 07:35:06.622 [info] [GitHub Pull Request] [FolderRepositoryManager+0] Found GitHub remote for folder c:\Users\dilan\OneDrive\Documentos\GitHub\GHOSTKRAKEN
+2026-01-11 07:35:06.659 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:06.659 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:06.674 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:06.674 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:07.458 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:07.458 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:07.687 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:07.687 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:08.126 [info] [GitHub Pull Request] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2026-01-11 07:35:08.136 [info] [GitHub Pull Request] [GitPostCommitCommands] Trying to register post commit commands.
+2026-01-11 07:35:08.137 [info] [GitHub Pull Request] [GitPostCommitCommands] GitHub remote(s) found, registering post commit commands.
+2026-01-11 07:35:08.741 [info] [Git] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [2473ms]
+2026-01-11 07:35:08.741 [warning] [Git] [Git][getBranch] No such branch: main
+2026-01-11 07:35:08.748 [error] [Git] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2026-01-11 07:35:08.756 [info] [GitHub Pull Request] [FolderRepositoryManager+0] No globalState for assignableUsers.
+2026-01-11 07:35:08.837 [info] [Git] > git config --get commit.template [1957ms]
+2026-01-11 07:35:09.267 [info] [Git] > git config --local -l [978ms]
+2026-01-11 07:35:09.301 [info] [GitHub Pull Request] [Review+0] No matching pull request metadata found locally for current branch main
+2026-01-11 07:35:09.301 [info] [Git] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [1292ms]
+2026-01-11 07:35:09.302 [warning] [Git] [Git][getBranch] No such branch: main
+2026-01-11 07:35:09.766 [info] [GitHub Pull Request] [FolderRepositoryManager+0] Using in-memory cached assignable users.
+2026-01-11 07:35:11.364 [info] [Git] > git status -z -uall [2053ms]
+2026-01-11 07:35:11.370 [info] [Git] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2045ms]
+2026-01-11 07:35:13.317 [info] [Git] > git config --get --local branch.main.remote [4016ms]
+2026-01-11 07:35:13.497 [info] [Git] > git config --get commit.template [2059ms]
+2026-01-11 07:35:13.838 [info] [Git] > git config --get --local branch.main.merge [496ms]
+2026-01-11 07:35:13.943 [info] [Git] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [386ms]
+2026-01-11 07:35:13.943 [warning] [Git] [Git][getBranch] No such branch: main
+2026-01-11 07:35:14.183 [info] [Git] > git status -z -uall [230ms]
+2026-01-11 07:35:14.184 [info] [Git] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [219ms]
+2026-01-11 07:35:14.206 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:35:14.207 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:35:14.213 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:14.213 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:35:15.414 [info] [GitLens (Git)] [2026-01-11 15:35:15.396] [*      2048ms] [c:/Users/dilan/OneDrive/Documentos/GitHub/GHOSTKRAKEN] git shortlog -s --all --no-min-parents --since=1.year.ago (slow) • FAILED
+2026-01-11 07:35:15.415 [info] [GitLens (Git)] 
+Canceled: Operation cancelled; command=C:\Program Files\Git\cmd\git.exe -c core.longpaths=true -c core.quotepath=false -c color.ui=false shortlog -s --all --no-min-parents --since=1.year.ago
+
+2026-01-11 07:35:15.904 [info] [GitLens] [2026-01-11 15:35:15.393] [GIT          ] [c:/Users/dilan/OneDrive/Documentos/GitHub/GHOSTKRAKEN] git shortlog -s --all --no-min-parents --since=1.year.ago • ABORTED after 2046ms (timeout)
+[2026-01-11 15:35:15.395] [GIT          ] [c:/Users/dilan/OneDrive/Documentos/GitHub/GHOSTKRAKEN] git shortlog -s --all --no-min-parents --since=1.year.ago • cancelled [2048ms] (slow)
+[2026-01-11 15:35:15.399] Git.exec
+Canceled: Operation cancelled; command=C:\Program Files\Git\cmd\git.exe -c core.longpaths=true -c core.quotepath=false -c color.ui=false shortlog -s --all --no-min-parents --since=1.year.ago
+
+2026-01-11 07:35:16.130 [warning] [GitHub Pull Request] [GitHubServer] No response from host https://origi/n: request to https://origi/api/v3/rate_limit failed, reason: Failed to establish a socket connection to proxies: PROXY 127.0.0.1:49692
+2026-01-11 07:35:16.224 [warning] [GitHub Pull Request] [Review+0] Failed to check GitHub for PR branch: Not Found - https://docs.github.com/rest
+2026-01-11 07:35:16.226 [error] [Ventana] [Extension Host] GET /repos//n - 404 with id FFBE:2907DB:195C60:686872:6963C332 in 93ms
+2026-01-11 07:35:16.229 [info] [GitHub Pull Request] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2026-01-11 07:35:45.485 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2026-01-11 07:35:45.489 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-01-11 07:35:48.304 [info] [Host de extensión] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-01-11 07:36:01.196 [error] [Ventana] Error reading tool set file vscode-userdata:/c%3A/Users/dilan/AppData/Roaming/Code/User/prompts/entrar.toolsets.jsonc: Unexpected end of JSON input
+2026-01-11 07:36:08.308 [info] [GitHub Copilot Chat] [CurrentChange] Full documents: 22 tokens, 110897 budget
+2026-01-11 07:36:08.657 [info] [GitHub Copilot Chat] Request ID for failed request: a4be81ea-702a-481e-9dca-7b683336e9bf
+2026-01-11 07:36:08.724 [error] [GitHub Copilot Chat] Server error: 402 {"error":{"message":"You have no quota","code":"quota_exceeded"}}
+2026-01-11 07:36:08.760 [info] [GitHub Copilot Chat] ccreq:e13c51ef.copilotmd | quotaExceeded | gpt-4.1-2025-04-14 | 305ms | [feedbackGenerator]
+2026-01-11 07:36:08.810 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:36:08.810 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:36:08.812 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:36:08.812 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:36:08.815 [info] [Autenticación de Microsoft] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-01-11 07:36:08.817 [info] [Autenticación de Microsoft] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-01-11 07:36:08.836 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:08.837 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:08.847 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:36:08.847 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:36:09.124 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:09.124 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:09.130 [info] [GitHub Copilot Chat] Logged in as ChrisGhosTJ07
+2026-01-11 07:36:09.624 [info] [GitHub Copilot Chat] Got Copilot token for ChrisGhosTJ07
+2026-01-11 07:36:09.624 [info] [GitHub Copilot Chat] Copilot Chat: 0.36.0, VS Code: 1.108.0
+2026-01-11 07:36:09.655 [info] [GitHub Copilot Chat] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-11 07:36:09.655 [info] [GitHub Copilot Chat] [code-referencing] Public code references are enabled.
+2026-01-11 07:36:09.695 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:36:09.695 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:36:09.712 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:36:09.712 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:36:09.714 [info] [Autenticación de Microsoft] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-01-11 07:36:09.714 [info] [Autenticación de Microsoft] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-01-11 07:36:09.748 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:09.748 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:09.803 [info] [GitHub Copilot Chat] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-11 07:36:09.803 [info] [GitHub Copilot Chat] [code-referencing] Public code references are enabled.
+2026-01-11 07:36:09.825 [info] [GitHub Copilot Chat] Fetched model metadata in 173ms 5b4b195c-9a52-4bc2-a23a-23a1436f26bf
+2026-01-11 07:36:09.918 [info] [GitHub Copilot Chat] ccreq:cca9420d.copilotmd | markdown
+2026-01-11 07:36:09.945 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:36:09.946 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:36:10.131 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:10.131 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:10.532 [info] [GitHub Authentication] Getting sessions for all scopes...
+2026-01-11 07:36:10.533 [info] [GitHub Authentication] Got 3 sessions for ...
+2026-01-11 07:36:10.541 [info] [GitHub Authentication] Getting sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:10.541 [info] [GitHub Authentication] Got 1 sessions for read:user,repo,user:email,workflow...
+2026-01-11 07:36:39.598 [info] [Git] > git check-ignore -v -z --stdin [460ms]
+2026-01-11 07:36:39.933 [info] [Git] > git config --get commit.template [482ms]
+2026-01-11 07:36:39.965 [info] [Git] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [471ms]
+2026-01-11 07:36:39.966 [warning] [Git] [Git][getBranch] No such branch: main
+2026-01-11 07:36:40.417 [info] [Git] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [372ms]
+2026-01-11 07:36:40.424 [info] [Git] > git status -z -uall [445ms]
+2026-01-11 07:36:40.451 [info] [GitHub Pull Request] [GitPostCommitCommands] Looking for remote. Comparing 1 local repo remotes with 2 GitHub repositories.
+2026-01-11 07:36:40.451 [info] [GitHub Pull Request] [GitPostCommitCommands] Found a repo when getting post commit commands.
+2026-01-11 07:36:40.451 [info] [GitHub Pull Request] [GitPostCommitCommands] Looking for remote. Comparing 1 local repo remotes with 2 GitHub repositories.
+2026-01-11 07:36:40.451 [info] [GitHub Pull Request] [GitPostCommitCommands] Found a repo when getting post commit commands.
